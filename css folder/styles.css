@@ -1,0 +1,97 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+}
+div{
+    background-color: #FFC947;
+    padding: 71px;
+    width: solid;
+    height: solid;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: #548CA8;
+    border-width: 7px;
+    width: 6%;
+    }
+h1{
+    color: #184D47;
+    font-size: 80px;
+    position: relative;
+    margin:0 auto;
+    top: 10px;
+}
+h2{
+    font-family: 'Berkshire Swash', cursive;
+    font-size:50px ;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-family: 'Merienda', cursive;
+    position: relative;
+    left: 10px;
+    top: 30px;
+    font-size: 30px;
+}
+.heading{
+    color: #184D47;
+}
+a{
+    color: rgb(21, 21, 37);
+    text-decoration: none;
+    margin: 20px 20px;
+}
+a:hover{
+    color: rgb(228, 17, 17);
+}
+.img1
+{
+    position: relative;
+    top: 250px;
+    right: 270px;
+}
+.img2{
+    position:relative;
+    bottom: 100px;
+    left: 200px;
+}
+.img3{
+    position: relative;
+    top: 10px;
+    width: 46%;
+}
+.img5{
+    width: 20%;
+    float: left;
+    margin-right: 40px;
+}
+.img6{
+    width: 20%;
+}
+.img7{
+    width: 20%
+}
+.Mypic{
+    width: 20%;
+  border-radius: 100%;
+}
+.profile{
+    color: #001E6C;
+    
+}
+.skills{
+    color: #325288;
+    font-family: 'Merienda', cursive;
+    font-weight: 2%;
+    text-align: left;
+    
+}
+.contact{
+    color: #053742;
+    
+}
